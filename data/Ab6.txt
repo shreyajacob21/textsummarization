@@ -1,0 +1,11 @@
+BACKGROUND.
+Many pregnant persons in the United States are receiving messenger RNA (mRNA) coronavirus disease 2019 (Covid-19) vaccines, but data are limited on their safety in pregnancy.
+
+METHODS.
+From December 14, 2020, to February 28, 2021, we used data from the “v-safe after vaccination health checker” surveillance system, the v-safe pregnancy registry, and the Vaccine Adverse Event Reporting System (VAERS) to characterize the initial safety of mRNA Covid-19 vaccines in pregnant persons.
+
+RESULTS.
+A total of 35,691 v-safe participants 16 to 54 years of age identified as pregnant. Injection-site pain was reported more frequently among pregnant persons than among nonpregnant women, whereas headache, myalgia, chills, and fever were reported less frequently. Among 3958 participants enrolled in the v-safe pregnancy registry, 827 had a completed pregnancy, of which 115 (13.9%) resulted in a pregnancy loss and 712 (86.1%) resulted in a live birth (mostly among participants with vaccination in the third trimester). Adverse neonatal outcomes included preterm birth (in 9.4%) and small size for gestational age (in 3.2%); no neonatal deaths were reported. Although not directly comparable, calculated proportions of adverse pregnancy and neonatal outcomes in persons vaccinated against Covid-19 who had a completed pregnancy were similar to incidences reported in studies involving pregnant women that were conducted before the Covid-19 pandemic. Among 221 pregnancy-related adverse events reported to the VAERS, the most frequently reported event was spontaneous abortion (46 cases).
+
+CONCLUSIONS.
+Preliminary findings did not show obvious safety signals among pregnant persons who received mRNA Covid-19 vaccines. However, more longitudinal follow-up, including follow-up of large numbers of women vaccinated earlier in pregnancy, is necessary to inform maternal, pregnancy, and infant outcomes.

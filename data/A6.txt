@@ -1,0 +1,16 @@
+COVID-19 Vaccines Appear Safe During Pregnancy: Early Data.
+Scientists at the US CDC report no red flags in a preliminary analysis of the safety of Pfizer/BioNTech’s and Moderna’s mRNA-based immunizations among expectant mothers.
+
+Although transmission of the SARS-CoV-2 across the placenta is rare, pregnant people are at an increased risk for severe COVID-19, which is why many experts and scientific societies have argued that vaccination is a must during pregnancy. However, initial clinical trials excluded pregnant people, so there has been limited clinical data on this population.
+
+Now, the first large-scale results are in, and they are encouraging. According to a study by scientists at the US Centers for Disease Control and Prevention published in the New England Journal of Medicine yesterday (April 21), there are no increased risks of severe side effects or adverse pregnancy outcomes from either the Moderna or Pfizer/BioNTech COVID-19 vaccines currently authorized for emergency use in the US.
+
+The study examined self-reported symptoms from more than 35,000 people aged 16 to 54 who were pregnant when they received their COVID-19 vaccination and who participated via a smartphone-based reporting system called v-safe. It also analyzed maternal and neonatal outcomes from nearly 3,600 participants who opted into an additional, telephone-based registry that collects detailed information about their pregnancies.
+
+The participants were slightly more likely than v-safe users who did not indicate they were pregnant to report injection-site pain, but less likely to report fever, chills, or aches. And among the 827 birth outcomes available, the rates of pregnancy loss, preterm birth, and small size were “similar to incidences reported in studies involving pregnant women that were conducted before the COVID-19 pandemic,” the authors write in their report.
+
+Stephanie Gaw, a maternal-fetal medicine specialist at the University of California, San Francisco, who was not part of the study, tells The New York Times that the findings are “very reassuring” and will “really help providers and public health officials more strongly recommend getting the vaccine in pregnancy.”
+
+“It is great to have data to share with our patients,” Laura Riley, the OB/GYN chair at New York’s Weill Cornell Medicine, tells the Associated Press.
+
+The study has several limitations, and the authors noted that additional research is needed, especially for vaccinations that occur early on in pregnancy. In addition to the reliance on self-reporting and the small number of pregnancies examined, the study only included vaccinations that occurred between December and the end of February, which were largely among healthcare workers and overwhelmingly included people in their second trimester or later. 

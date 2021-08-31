@@ -1,0 +1,1 @@
+Prepping raw samples for nucleic acid analysis takes several steps, including breaking open cells and viral particles to access the nucleic acids, stripping the sample of proteins and other cellular components that could interfere with the reactionall while being careful to not degrade the nucleic acids; single-stranded RNA is particularly sensitive to degradation.
