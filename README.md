@@ -7,6 +7,6 @@ The year 2019 would remain in history forever due to the outbreak of Covid-19.  
 
 To run,
 
-python3 summarization.py to summarizeany text document
+python3 summarization.py to summarize any text document
 
 python3 evaluation.py to evaluate any two text documents
